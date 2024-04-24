@@ -1,5 +1,6 @@
-Gender and Age Prediction using Convolutional Neural Networks (CNN)
-Overview
+<h1>Gender and Age Prediction using Convolutional Neural Networks (CNN)</h1>
+
+<h3>Overview</h3>
 This repository contains code for a Convolutional Neural Network (CNN) model trained to predict gender and age from facial images. The model architecture is designed to accept input images and output two predictions simultaneously: gender (binary classification) and age (regression).
 
 Model Architecture
