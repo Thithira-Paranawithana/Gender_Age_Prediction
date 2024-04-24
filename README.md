@@ -22,7 +22,7 @@ The model is trained using binary cross-entropy loss for gender prediction and m
 <h3>Dependencies</h3>
 The code is implemented using Python and requires the following dependencies, listed in requirements.txt:
 <ul>
-<li>TensorFlow (>=2.0)</li>
+<li>TensorFlow</li>
 <li>Keras</li>
 <li>NumPy</li>
 <li>Matplotlib (for visualization)</li>
